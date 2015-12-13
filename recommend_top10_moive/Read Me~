@@ -1,0 +1,15 @@
+Roll Number-->14mcmi12
+========================================================================
+Execution : Rscript fileName.R dataset.
+	    Here--> 1."Rscript sampleProject.R u.data 0 0"
+		    2."Rscript mainProject.R u.data 0 0"
+
+Note:Here I included two R file(sampleProject.R,mainProject.R).
+------------------------------------------------------------------------
+for Excution 1."Rscript sampleProject.R u.data 0 0"
+I executed this R file for only randomly 5 user which make clear visualization of Execution.I also reduced the data size for this Execution which is implicitly done in program it self, so it is fast.
+------------------------------------------------------------------------
+for Excution 2."Rscript mainProject.R u.data 0 0"
+This is the main R file for this assignment.This program works on full "u.data" data set but it is comparatively too slow that why in include another R file.This R file each time randomly executed for 50 user.
+
+
