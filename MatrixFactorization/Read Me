@@ -1,0 +1,4 @@
+Execution : Rscript fileName.R dataset.
+
+The program runs and outputs the RMSE and MAE.
+The program also outputs the Graph of RMSE and MAE, which will automaticlly save in the same Folder where you store it(program).
